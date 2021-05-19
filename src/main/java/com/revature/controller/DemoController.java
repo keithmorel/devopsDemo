@@ -8,7 +8,7 @@ public class DemoController {
 	
 	@GetMapping("/test")
 	public String demo() {
-		return "Test Jenkinsfile update!!!";
+		return "This is a test";
 	}
 
 }
